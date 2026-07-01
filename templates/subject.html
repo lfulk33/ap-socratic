@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ data.subject }} - AP Socratic</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main>
+    <p><a href="{{ url_for('index') }}">&larr; Subjects</a></p>
+    <h1>{{ data.subject }}</h1>
+    <ul class="list">
+      {% for unit in data.units %}
+        <li>
+          <a href="{{ url_for('start_unit', subject_id=subject_id, unit_id=unit.id) }}">{{ unit.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </main>
+</body>
+</html>

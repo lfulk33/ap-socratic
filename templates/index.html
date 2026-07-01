@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AP Socratic</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main>
+    <h1>AP Socratic</h1>
+    <p>Choose a subject to start a Socratic study session.</p>
+    <ul class="list">
+      {% for s in subjects %}
+        <li><a href="{{ url_for('subject', subject_id=s.id) }}">{{ s.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </main>
+</body>
+</html>

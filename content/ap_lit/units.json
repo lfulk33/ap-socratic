@@ -1,0 +1,197 @@
+{
+  "subject": "AP English Literature and Composition",
+  "source_note": "Structured from the AP English Literature and Composition Course and Exam Description (Effective Fall 2024). Essential questions and skill summaries below are paraphrased in original wording, not copied from the CED. Example texts are drawn from the CED's optional sample-activity suggestions; they are not a required reading list.",
+  "units": [
+    {
+      "id": "short-fiction-1",
+      "title": "Unit 1: Short Fiction I",
+      "big_ideas": ["Character", "Setting", "Structure", "Narration", "Literary Argumentation"],
+      "essential_questions": [
+        "How do specific textual details reveal a character's perspective and motives?",
+        "How does a story's setting convey more than just time and place?",
+        "How does the order of events in a plot shape a reader's understanding?",
+        "Who is telling this story, and how does that choice affect what the reader knows?"
+      ],
+      "focus_skills": [
+        "Identify what textual details reveal about a character, their perspective, and their motives",
+        "Identify what textual details reveal about a setting",
+        "Explain how plot orders events and why that sequence matters",
+        "Identify the narrator or speaker of a text and distinguish narrator from author",
+        "Write a paragraph with a defensible claim and supporting textual evidence"
+      ],
+      "texts": [
+        "Kate Chopin, \"The Story of an Hour\"",
+        "William Faulkner, \"A Rose for Emily\"",
+        "Jamaica Kincaid, \"Girl\""
+      ]
+    },
+    {
+      "id": "poetry-1",
+      "title": "Unit 2: Poetry I",
+      "big_ideas": ["Character", "Structure", "Figurative Language", "Literary Argumentation"],
+      "essential_questions": [
+        "How do line and stanza breaks shape the way a poem delivers meaning?",
+        "How do similes and metaphors ask a reader to transfer meaning from one thing to another?",
+        "How does a shift or contrast within a poem signal a turn in meaning?"
+      ],
+      "focus_skills": [
+        "Explain how a poem's structure (lines, stanzas) shapes its meaning",
+        "Explain the function of a contrast or shift within a text",
+        "Identify and explain the function of a simile",
+        "Identify and explain the function of a metaphor",
+        "Explain the function of specific word choices, including repetition and ambiguous references"
+      ],
+      "texts": [
+        "Jimmy Santiago Baca, \"I Am Offering This Poem\"",
+        "Langston Hughes, \"Theme for English B\"",
+        "Elizabeth Bishop, \"The Fish\"",
+        "John Donne, \"The Sun Rising\""
+      ]
+    },
+    {
+      "id": "longer-fiction-drama-1",
+      "title": "Unit 3: Longer Fiction or Drama I",
+      "big_ideas": ["Character", "Setting", "Structure", "Literary Argumentation"],
+      "essential_questions": [
+        "How does an extended narrative develop character and conflict differently than a short story does?",
+        "What makes a thesis statement defensible, and how does a line of reasoning connect evidence to it?",
+        "How do internal and external conflicts reveal a character's values?"
+      ],
+      "focus_skills": [
+        "Explain the function of a character changing or remaining unchanged",
+        "Explain the function of conflict (internal and external) in a text",
+        "Develop a thesis statement that conveys a defensible interpretation",
+        "Develop commentary that connects evidence to a line of reasoning",
+        "Select relevant, sufficient evidence to support an argument"
+      ],
+      "texts": [
+        "William Shakespeare, Hamlet",
+        "Zora Neale Hurston, Their Eyes Were Watching God"
+      ]
+    },
+    {
+      "id": "short-fiction-2",
+      "title": "Unit 4: Short Fiction II",
+      "big_ideas": ["Character", "Setting", "Structure", "Narration", "Literary Argumentation"],
+      "essential_questions": [
+        "How do contrasting characters, like a protagonist and antagonist or foils, reveal competing values?",
+        "How does narrative distance or stream-of-consciousness narration shape what a reader experiences?",
+        "How do specific word choices reveal a narrator's or speaker's tone?"
+      ],
+      "focus_skills": [
+        "Explain the function of contrasting characters",
+        "Describe how textual details reveal complexity in a character's relationships",
+        "Identify and describe narrative distance and stream-of-consciousness narration",
+        "Identify details, diction, or syntax that reveal a narrator's or speaker's tone",
+        "Develop a thesis statement and a supporting line of reasoning"
+      ],
+      "texts": [
+        "Kate Chopin, \"The Story of an Hour\"",
+        "Jamaica Kincaid, \"Girl\"",
+        "Amy Tan, \"Two Kinds\""
+      ]
+    },
+    {
+      "id": "poetry-2",
+      "title": "Unit 5: Poetry II",
+      "big_ideas": ["Structure", "Figurative Language", "Literary Argumentation"],
+      "essential_questions": [
+        "How does an extended metaphor build meaning across an entire poem rather than a single line?",
+        "How do patterns of imagery work together to convey a larger idea?",
+        "Why might two readers reach different, equally defensible interpretations of the same poem?"
+      ],
+      "focus_skills": [
+        "Distinguish literal from figurative meaning",
+        "Identify and explain imagery, extended metaphor, personification, and allusion",
+        "Explain how open versus closed poetic structures shape meaning",
+        "Revise a thesis and line of reasoning in response to an alternative interpretation"
+      ],
+      "texts": [
+        "Elizabeth Bishop, \"The Fish\"",
+        "Elizabeth Barrett Browning, \"How Do I Love Thee?\"",
+        "John Donne, \"The Sun Rising\""
+      ]
+    },
+    {
+      "id": "longer-fiction-drama-2",
+      "title": "Unit 6: Longer Fiction or Drama II",
+      "big_ideas": ["Character", "Structure", "Narration", "Figurative Language", "Literary Argumentation"],
+      "essential_questions": [
+        "How does a nonlinear structure (flashback, foreshadowing, in medias res) change a reader's experience of a story?",
+        "What makes a narrator reliable or unreliable, and how does that affect interpretation?",
+        "How does an object or character come to function as a symbol?"
+      ],
+      "focus_skills": [
+        "Explain the function of foil characters and inconsistencies within a character",
+        "Identify structures that interrupt chronology and explain their effect on the reader",
+        "Explain how a narrator's reliability affects interpretation of a narrative",
+        "Identify and explain the function of a symbol",
+        "Write commentary that connects evidence to a line of reasoning in a complex argument"
+      ],
+      "texts": [
+        "Zora Neale Hurston, Their Eyes Were Watching God",
+        "Mary Shelley, Frankenstein"
+      ]
+    },
+    {
+      "id": "short-fiction-3",
+      "title": "Unit 7: Short Fiction III",
+      "big_ideas": ["Character", "Setting", "Structure", "Narration", "Figurative Language", "Literary Argumentation"],
+      "essential_questions": [
+        "How does a text's treatment of social structures or institutions shape its meaning?",
+        "How does pacing, what's revealed and when, shape a reader's emotional experience?",
+        "When should a reader revise their interpretation instead of just noting an alternative one?"
+      ],
+      "focus_skills": [
+        "Explain the function of a character changing or remaining unchanged, including sudden change (epiphany)",
+        "Explain how setting and pacing contribute to meaning in a narrative",
+        "Identify and explain symbols, motifs, and figurative language in prose",
+        "Revise a thesis and line of reasoning when evidence doesn't fully support it"
+      ],
+      "texts": [
+        "William Faulkner, \"A Rose for Emily\"",
+        "Amy Tan, \"Two Kinds\""
+      ]
+    },
+    {
+      "id": "poetry-3",
+      "title": "Unit 8: Poetry III",
+      "big_ideas": ["Structure", "Figurative Language", "Literary Argumentation"],
+      "essential_questions": [
+        "How does a conceit build an extended, often surprising comparison across a poem?",
+        "How do irony and paradox create tension between what's said and what's meant?",
+        "How can ambiguity in language support more than one valid interpretation?"
+      ],
+      "focus_skills": [
+        "Explain how structure and punctuation shape meaning at both the part and whole-poem level",
+        "Identify and explain juxtaposition, irony, and paradox",
+        "Explain how ambiguous language invites multiple interpretations",
+        "Write a literary argument that accounts for a text's complexity"
+      ],
+      "texts": [
+        "Metaphysical poetry (e.g. John Donne) featuring extended conceits"
+      ]
+    },
+    {
+      "id": "longer-fiction-drama-3",
+      "title": "Unit 9: Longer Fiction or Drama III",
+      "big_ideas": ["Character", "Structure", "Narration", "Literary Argumentation"],
+      "essential_questions": [
+        "How does a character's response to a story's resolution reveal their underlying values?",
+        "How do multiple, even conflicting, narrator perspectives contribute to a text's complexity?",
+        "What separates a competent literary argument from a genuinely sophisticated one?"
+      ],
+      "focus_skills": [
+        "Explain how a character's choices at the story's resolution reveal complexity",
+        "Explain the function of a significant event or conflict's resolution, or lack of resolution",
+        "Analyze shifts in a narrator's or speaker's perspective over the course of a long text",
+        "Develop a sophisticated literary argument that situates an interpretation in a broader context"
+      ],
+      "texts": [
+        "William Shakespeare, Hamlet",
+        "Zora Neale Hurston, Their Eyes Were Watching God",
+        "Mary Shelley, Frankenstein"
+      ]
+    }
+  ]
+}
