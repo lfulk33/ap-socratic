@@ -1,7 +1,7 @@
 import anthropic
 from config import ANTHROPIC_API_KEY
 
-MODEL = "claude-opus-4-8"
+MODEL = "claude-haiku-4-5"
 
 client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 
