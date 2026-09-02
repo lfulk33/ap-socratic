@@ -1,0 +1,221 @@
+{
+ "subject": "AP World History: Modern",
+ "source_note": "Structured from the AP World History: Modern Course and Exam Description (© 2026). Unit titles and date ranges follow the CED's own framework. The essential questions are written for this app and are not the CED's; skill descriptions are paraphrased rather than quoted.",
+ "units": [
+  {
+   "id": "global-tapestry",
+   "title": "Unit 1: The Global Tapestry (c. 1200–1450)",
+   "big_ideas": [
+    "Governance",
+    "Cultural Developments",
+    "Economic Systems"
+   ],
+   "essential_questions": [
+    "Song China, Dar al-Islam, and the Delhi Sultanate all held power over people who did not share the ruler's faith. What did each rely on to make that work, and which looks most fragile to you?",
+    "Was the state in this period mainly an instrument of extraction, or of order? Pick one region and argue it.",
+    "If you had to name the single most important source of a ruler's legitimacy in 1300, what would it be — and where does your answer break down?"
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Whatever primary sources you are reading for this unit — bring the text and we will work from it"
+   ]
+  },
+  {
+   "id": "networks-of-exchange",
+   "title": "Unit 2: Networks of Exchange (c. 1200–1450)",
+   "big_ideas": [
+    "Economic Systems",
+    "Technology",
+    "Cultural Developments"
+   ],
+   "essential_questions": [
+    "The Silk Roads, the Indian Ocean, and the trans-Saharan routes all moved goods. Which moved ideas most effectively, and what about it did that?",
+    "Was the Mongol Empire better for trade than it was destructive to the places it conquered? Defend a position.",
+    "Merchants carried disease as readily as silk. Does that make these networks a net gain for the people living along them?"
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Travel accounts and merchant records for this unit — paste the passage you are working from"
+   ]
+  },
+  {
+   "id": "land-based-empires",
+   "title": "Unit 3: Land-Based Empires (c. 1450–1750)",
+   "big_ideas": [
+    "Governance",
+    "Cultural Developments"
+   ],
+   "essential_questions": [
+    "Gunpowder gets the credit for these empires. What else was doing the work, and how would you show it mattered more?",
+    "The Ottomans, Safavids, and Mughals all ruled religiously mixed populations. Whose approach would you call most durable, and by what measure?",
+    "Is 'gunpowder empire' a useful category or a label that flattens real differences? Argue one way."
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Court chronicles, traveller accounts, administrative records — bring the passage"
+   ]
+  },
+  {
+   "id": "transoceanic",
+   "title": "Unit 4: Transoceanic Interconnections (c. 1450–1750)",
+   "big_ideas": [
+    "Economic Systems",
+    "Technology",
+    "Environment"
+   ],
+   "essential_questions": [
+    "The Columbian Exchange moved crops, animals, people, and pathogens. Which of those changed the most lives, and how would you defend that against the others?",
+    "Was European maritime expansion driven more by technology, by state competition, or by demand for Asian goods? Rank them and justify the order.",
+    "Silver from Potosí ended up in China. What does that single fact let you argue about the world economy in 1600?"
+   ],
+   "focus_skills": [
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Accounts of the exchange, trade records, colonial documents — paste what you are reading"
+   ]
+  },
+  {
+   "id": "revolutions",
+   "title": "Unit 5: Revolutions (c. 1750–1900)",
+   "big_ideas": [
+    "Governance",
+    "Technology",
+    "Economic Systems"
+   ],
+   "essential_questions": [
+    "Enlightenment ideas were available to many societies. Why did they produce revolution in some places and not others?",
+    "Britain industrialised first. Was that geography, institutions, coal, or empire? Make the case for one and name what it cannot explain.",
+    "The Haitian Revolution used the same language as the French. Why is it remembered so differently?"
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Declarations, pamphlets, factory reports — bring the document"
+   ]
+  },
+  {
+   "id": "consequences-industrialization",
+   "title": "Unit 6: Consequences of Industrialization (c. 1750–1900)",
+   "big_ideas": [
+    "Economic Systems",
+    "Governance",
+    "Social Interactions"
+   ],
+   "essential_questions": [
+    "Imperialism was justified by civilising language and driven by economics. Which explanation does the evidence support better?",
+    "Industrialisation raised output and shortened lives in the same cities. How do you weigh those against each other?",
+    "Did resistance to empire ever change how empire operated, or only how it described itself?"
+   ],
+   "focus_skills": [
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Imperial justifications, resistance writings, economic data — paste the source"
+   ]
+  },
+  {
+   "id": "global-conflict",
+   "title": "Unit 7: Global Conflict (c. 1900–present)",
+   "big_ideas": [
+    "Governance",
+    "Technology",
+    "Social Interactions"
+   ],
+   "essential_questions": [
+    "Total war required states to reach into ordinary life as never before. Did that expansion of state power ever really recede?",
+    "Was the Second World War a continuation of the First, or a different conflict? Argue it with evidence, not assertion.",
+    "Colonial troops fought in both wars. What did that do to the empires that recruited them?"
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Wartime propaganda, treaties, soldiers' accounts — bring the text"
+   ]
+  },
+  {
+   "id": "cold-war-decolonization",
+   "title": "Unit 8: Cold War and Decolonization (c. 1900–present)",
+   "big_ideas": [
+    "Governance",
+    "Cultural Developments",
+    "Economic Systems"
+   ],
+   "essential_questions": [
+    "Newly independent states chose alignment, non-alignment, or something in between. What decided which?",
+    "Was the Cold War primarily an ideological contest or a great-power rivalry that used ideology? Pick one.",
+    "Decolonisation transferred sovereignty. How much did it transfer power?"
+   ],
+   "focus_skills": [
+    "State precisely what changed, where, and when — name the development, do not gesture at it",
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Independence speeches, Cold War documents, non-aligned declarations — paste the passage"
+   ]
+  },
+  {
+   "id": "globalization",
+   "title": "Unit 9: Globalization (c. 1900–present)",
+   "big_ideas": [
+    "Technology",
+    "Economic Systems",
+    "Environment"
+   ],
+   "essential_questions": [
+    "Technology shrank distance. Has it made the world more alike, or made differences more visible?",
+    "Who has actually benefited from global economic integration? Answer with a specific case, not a generalisation.",
+    "Climate change is a global problem produced unequally. What does that do to arguments about who should act?"
+   ],
+   "focus_skills": [
+    "Work out who made a source, for whom, and why, and say how that shapes what it claims",
+    "Separate what a source asserts from what it actually shows, and weigh the evidence behind it",
+    "Place a development in the wider world of its moment — what else was under way, and where",
+    "Set two things side by side and account for the difference, the cause, or what persisted",
+    "Make a defensible claim, support it with specific evidence, and answer the strongest objection"
+   ],
+   "texts": [
+    "Trade data, environmental reports, contemporary accounts — bring the source"
+   ]
+  }
+ ]
+}

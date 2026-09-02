@@ -1,0 +1,205 @@
+{
+ "subject": "AP Environmental Science",
+ "source_note": "Structured from the AP Environmental Science Course and Exam Description (© 2026). Unit titles follow the CED's framework. Essential questions are written for this app; science-practice descriptions are paraphrased, not quoted.",
+ "units": [
+  {
+   "id": "living-world-ecosystems",
+   "title": "Unit 1: The Living World: Ecosystems",
+   "big_ideas": [
+    "Energy Transfer",
+    "Interactions"
+   ],
+   "essential_questions": [
+    "Only about ten percent of energy moves up a trophic level. What does that single constraint determine about how ecosystems are shaped?",
+    "Is a nutrient cycle better understood as a cycle or as a set of reservoirs with very different residence times?",
+    "Two ecosystems have identical primary productivity but different biodiversity. What could explain that?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Do the calculation with units on every line, then sanity-check the magnitude"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "biodiversity",
+   "title": "Unit 2: The Living World: Biodiversity",
+   "big_ideas": [
+    "Interactions",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "Ecosystem services are usually argued in dollars. What does that framing win, and what does it concede?",
+    "Island biogeography was built from islands. Why does it apply to a national park?",
+    "Is a disturbed ecosystem always worse off? Find a case that complicates the answer."
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Identify a source's claim and the evidence behind it before you agree or disagree",
+    "Describe the trend in the data first; explain it second; do not merge the two"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "populations",
+   "title": "Unit 3: Populations",
+   "big_ideas": [
+    "Interactions",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "Carrying capacity sounds like a fixed number. For humans, is it one?",
+    "Two countries with the same total fertility rate can have very different age structures. How?",
+    "The demographic transition model was drawn from European history. Where does it fail, and does that make it useless?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Describe the trend in the data first; explain it second; do not merge the two",
+    "Do the calculation with units on every line, then sanity-check the magnitude",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "earth-systems",
+   "title": "Unit 4: Earth Systems and Resources",
+   "big_ideas": [
+    "Energy Transfer",
+    "Interactions"
+   ],
+   "essential_questions": [
+    "Soil takes centuries to form and a season to lose. What does that asymmetry mean for how we should use it?",
+    "El Niño is a Pacific phenomenon with global effects. Trace one chain of consequence and say where it weakens.",
+    "Watersheds ignore political boundaries. What problems does that create that maps do not show?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Design or critique an investigation — what is the control, and what would falsify it",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "land-water-use",
+   "title": "Unit 5: Land and Water Use",
+   "big_ideas": [
+    "Sustainability",
+    "Human Impacts"
+   ],
+   "essential_questions": [
+    "The tragedy of the commons assumes people cannot cooperate. Where has that assumption been proved wrong?",
+    "Industrial agriculture feeds more people per acre and degrades the acre. How would you decide the trade?",
+    "Pick a land use you rely on daily and trace its full environmental cost. What did you not know?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Identify a source's claim and the evidence behind it before you agree or disagree",
+    "Design or critique an investigation — what is the control, and what would falsify it",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Unit 6: Energy Resources and Consumption",
+   "big_ideas": [
+    "Energy Transfer",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "Every energy source has a hidden cost. Take the one you consider cleanest and argue against it.",
+    "Is nuclear power a climate solution or a risk transfer to the future? Defend a position.",
+    "Energy conservation is the cheapest source of supply. Why is it the hardest to sell?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Do the calculation with units on every line, then sanity-check the magnitude",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "atmospheric-pollution",
+   "title": "Unit 7: Atmospheric Pollution",
+   "big_ideas": [
+    "Human Impacts",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "Photochemical smog needs sunlight, cars, and geography. Which would you change to fix it fastest?",
+    "Indoor air is often worse than outdoor air. Why does regulation focus on the outdoor kind?",
+    "Acid rain was substantially solved. What made that possible, and does it transfer to carbon?"
+   ],
+   "focus_skills": [
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Identify a source's claim and the evidence behind it before you agree or disagree",
+    "Design or critique an investigation — what is the control, and what would falsify it",
+    "Describe the trend in the data first; explain it second; do not merge the two",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "pollution",
+   "title": "Unit 8: Aquatic and Terrestrial Pollution",
+   "big_ideas": [
+    "Human Impacts",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "Dose makes the poison. Does that principle hold for endocrine disruptors?",
+    "Bioaccumulation means the top predator pays for everyone's pollution. What does that imply about where to measure?",
+    "Landfill, incineration, recycling — argue for the one you think is most over-rated."
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Design or critique an investigation — what is the control, and what would falsify it",
+    "Describe the trend in the data first; explain it second; do not merge the two",
+    "Do the calculation with units on every line, then sanity-check the magnitude",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  },
+  {
+   "id": "global-change",
+   "title": "Unit 9: Global Change",
+   "big_ideas": [
+    "Human Impacts",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "The ozone layer is recovering; the climate is not. What is different about the two problems?",
+    "Ocean acidification is called the other CO₂ problem. Why does it get less attention, and is that justified?",
+    "Invasive species are a global-change symptom that individuals can actually affect. Is that why it is emphasised?"
+   ],
+   "focus_skills": [
+    "Explain the process in your own words, then apply it to a case you have not been given",
+    "Read the diagram or model for what it claims, and say where it simplifies",
+    "Describe the trend in the data first; explain it second; do not merge the two",
+    "Propose a solution, name its cost or unintended consequence, and defend it anyway"
+   ],
+   "texts": [
+    "Bring the data set, diagram or article you are working from — paste it and we will read it rather than talk around it"
+   ]
+  }
+ ]
+}

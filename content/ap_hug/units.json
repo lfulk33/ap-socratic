@@ -1,0 +1,164 @@
+{
+ "subject": "AP Human Geography",
+ "source_note": "Structured from the AP Human Geography Course and Exam Description (© 2020). Unit titles follow the CED's framework. Essential questions are written for this app; skill descriptions are paraphrased, not quoted.",
+ "units": [
+  {
+   "id": "thinking-geographically",
+   "title": "Unit 1: Thinking Geographically",
+   "big_ideas": [
+    "Spatial thinking",
+    "Geographic data",
+    "Scale"
+   ],
+   "essential_questions": [
+    "Every map is a set of choices about what to leave out. Take one you have used this week and say what its omissions cost.",
+    "Is geography better understood as the study of place, or of the relationships between places? Argue one.",
+    "When does zooming out to a global scale reveal something, and when does it hide the thing that matters?"
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Read the map, chart or table for what it actually shows before you interpret it",
+    "Ask what changes when you zoom in or out — what appears, and what disappears"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "population-migration",
+   "title": "Unit 2: Population and Migration",
+   "big_ideas": [
+    "Population distribution",
+    "Demographic change",
+    "Migration"
+   ],
+   "essential_questions": [
+    "Two countries can share a fertility rate and face completely different futures. What else has to be true for that?",
+    "Malthus has been wrong for two centuries. Is the model useless, or is it waiting?",
+    "Push and pull factors are taught as a tidy pair. Take a real migration and say which framing distorts it."
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Read the map, chart or table for what it actually shows before you interpret it"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "cultural-patterns",
+   "title": "Unit 3: Cultural Patterns and Processes",
+   "big_ideas": [
+    "Cultural landscapes",
+    "Diffusion",
+    "Identity"
+   ],
+   "essential_questions": [
+    "A cultural landscape is a record of who had power. Read one you know and say what it records.",
+    "Does globalisation homogenise culture or intensify local identity? Find a case that resists your answer.",
+    "Language and religion diffuse differently. What accounts for the difference?"
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Take a source's claim seriously enough to test it against other evidence",
+    "Ask what changes when you zoom in or out — what appears, and what disappears"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "political-patterns",
+   "title": "Unit 4: Political Patterns and Processes",
+   "big_ideas": [
+    "States and sovereignty",
+    "Boundaries",
+    "Devolution"
+   ],
+   "essential_questions": [
+    "A boundary drawn by outsiders and one drawn by locals can look identical on a map. What makes them behave differently?",
+    "Is the nation-state still the basic unit of political geography, or a category we have not updated?",
+    "Devolution and supranationalism pull in opposite directions. Can a state experience both at once? Show it."
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Ask what changes when you zoom in or out — what appears, and what disappears"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "agriculture",
+   "title": "Unit 5: Agriculture and Rural Land Use",
+   "big_ideas": [
+    "Agricultural systems",
+    "Land use",
+    "Food security"
+   ],
+   "essential_questions": [
+    "Von Thünen's model assumes a flat, uniform plain. What does it still explain despite that, and what does it get wrong?",
+    "The Green Revolution raised yields and concentrated ownership. On balance, was it a success?",
+    "Who actually decides what a farmer plants? Trace the chain and say where the real power sits."
+   ],
+   "focus_skills": [
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Read the map, chart or table for what it actually shows before you interpret it",
+    "Take a source's claim seriously enough to test it against other evidence",
+    "Ask what changes when you zoom in or out — what appears, and what disappears"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Unit 6: Cities and Urban Land Use",
+   "big_ideas": [
+    "Urbanization",
+    "Internal structure",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "The concentric zone, sector and multiple nuclei models were built from a handful of cities. Test one against a city you know.",
+    "Gentrification improves buildings and displaces people. How would you decide whether a neighbourhood is better off?",
+    "What makes a city sustainable — its density, its transport, its politics? Rank them."
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Read the map, chart or table for what it actually shows before you interpret it",
+    "Ask what changes when you zoom in or out — what appears, and what disappears"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  },
+  {
+   "id": "development",
+   "title": "Unit 7: Industrial and Economic Development",
+   "big_ideas": [
+    "Development measures",
+    "Trade",
+    "Sustainability"
+   ],
+   "essential_questions": [
+    "GDP per capita and the Human Development Index can rank two countries in opposite orders. Which would you trust, and for what question?",
+    "Rostow says development is a sequence. Wallerstein says it is a structure. Which better explains a country you have studied?",
+    "Is sustainable development a real goal or a phrase that lets everyone agree? Defend your answer."
+   ],
+   "focus_skills": [
+    "Say precisely what the concept means and use it correctly in a real case",
+    "Describe a spatial pattern, then explain what produces it and what it produces",
+    "Read the map, chart or table for what it actually shows before you interpret it",
+    "Take a source's claim seriously enough to test it against other evidence"
+   ],
+   "texts": [
+    "Bring the map, chart or article you are working from — we will read it together rather than talk around it"
+   ]
+  }
+ ]
+}
