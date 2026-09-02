@@ -1,10 +1,15 @@
 from flask import Flask, render_template, request, jsonify
+from werkzeug.middleware.proxy_fix import ProxyFix
 
 import db
 from content_loader import list_subjects, load_subject, get_unit
 from llm_client import send_message, start_conversation
 
 app = Flask(__name__)
+# Mounted at /tutor on the homeschool site as well as at its own domain. ProxyFix reads
+# X-Forwarded-Prefix so url_for builds correct links under either, which works only
+# because every template uses url_for rather than literal paths.
+app.wsgi_app = ProxyFix(app.wsgi_app, x_prefix=1, x_host=1, x_proto=1)
 db.init_db()
 
 
